@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JobConnect Frontend
 
 JobConnect is a React-based job portal frontend. This repository is the
@@ -75,3 +76,7 @@ Change or remove demo credentials before any public deployment. Do not
 use these accounts for real personal data.
 # for reference
 git clone https://github.com/agathaapio79-ux/jobconnect-frontend.git
+=======
+# jobconnect-frontend
+class work
+>>>>>>> 5b2edf6494d260e6899c0999b96645342a711c24
